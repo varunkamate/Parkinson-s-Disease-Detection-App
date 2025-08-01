@@ -41,9 +41,12 @@ Displays probability and medical disclaimer
 
 Educates users about voice features used
 
+Front streamlit page
+
 <img width="1908" height="1004" alt="Screenshot 2025-08-01 122003" src="https://github.com/user-attachments/assets/fb7a4960-6546-41fc-9f60-83b27b1a93a8" />
 
 
+Output prediction page
 <img width="1896" height="448" alt="Screenshot 2025-08-01 122024" src="https://github.com/user-attachments/assets/0f4ac060-d0b7-461d-8906-3483817f0a1a" />
 
 
