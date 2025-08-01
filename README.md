@@ -41,3 +41,23 @@ Displays probability and medical disclaimer
 
 Educates users about voice features used
 
+<img width="1908" height="1004" alt="Screenshot 2025-08-01 122003" src="https://github.com/user-attachments/assets/fb7a4960-6546-41fc-9f60-83b27b1a93a8" />
+
+
+<img width="1896" height="448" alt="Screenshot 2025-08-01 122024" src="https://github.com/user-attachments/assets/0f4ac060-d0b7-461d-8906-3483817f0a1a" />
+
+
+🚀 Getting Started
+🛠 Requirements
+bash
+Copy code
+pip install -r requirements.txt
+Or manually install:
+
+bash
+Copy code
+pip install streamlit pandas numpy joblib scikit-learn
+▶️ Run the App
+bash
+Copy code
+streamlit run app.py
