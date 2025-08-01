@@ -52,15 +52,13 @@ Output prediction page
 
 🚀 Getting Started
 🛠 Requirements
-bash
-Copy code
+
 pip install -r requirements.txt
 Or manually install:
 
-bash
-Copy code
+
 pip install streamlit pandas numpy joblib scikit-learn
+
 ▶️ Run the App
-bash
-Copy code
+
 streamlit run app.py
