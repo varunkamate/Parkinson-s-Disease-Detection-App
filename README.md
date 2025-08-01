@@ -19,3 +19,25 @@ HNR	Harmonics-to-noise ratio
 RPDE	Nonlinear dynamical complexity measure
 DFA	Fractal scaling exponent
 PPE	Fundamental frequency variation
+
+🧪 Model Details
+Algorithm: Gaussian Naive Bayes
+
+Accuracy: ~93%
+
+Model File: model.pkl
+
+Notebook: parkinsons_with_Naive_baye.ipynb (for training and evaluation)
+
+💻 Web Application: Streamlit
+🔧 Features
+Clean and responsive UI with custom CSS
+
+Sidebar with medical info and instructions
+
+Real-time predictions based on user input
+
+Displays probability and medical disclaimer
+
+Educates users about voice features used
+
